@@ -1,6 +1,6 @@
 # Data Structures And Algorithms
 
-This repository is for maintaing java code for all data structures and algorithms related articles written at **[codepumpkin.com](http://codepumpkin.com)**
+This repository is for maintaing java code for all data structures and algorithms 
 
 ## 1. Recursion – Backtracking  
 
